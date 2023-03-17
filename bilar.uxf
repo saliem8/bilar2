@@ -1,0 +1,16 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>15</zoom_level><help_text></help_text><element><id>UMLClass</id><coordinates><x>0</x><y>0</y><w>150</w><h>45</h></coordinates><panel_attributes>SimpleClass</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>120</x><y>165</y><w>300</w><h>480</h></coordinates><panel_attributes>App.py
+--
+bilsta[bil]
+looping:Bodean
+--
+main():program</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>690</x><y>210</y><w>300</w><h>360</h></coordinates><panel_attributes>bilar
+--
+fabrik:string
+color:string
+lager:init
+--
+-init_costruktor
+setFabrikat(str)
+getFabrikat():str
+getColor():str
+getLager():int</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>405</x><y>405</y><w>300</w><h>45</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>180;10;10;10</additional_attributes></element></diagram>
